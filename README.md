@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on iOS Apps
+- 🌱 I’m currently learning PyTorch and AI Transformers (core ML integration
+- 😄 Pronouns: He/Him
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Djallil14)]()
+
 <!--
 **Djallil14/Djallil14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Djallil14)]()
 -->
