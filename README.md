@@ -7,6 +7,7 @@
 - ⚡ Fun fact: If you have a cool Algerian centred project i'd probably help you and work with you for free
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Djallil14)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=Djallil14)](https://github.com/Djallil14/github-profile-trophy)
 
 <!--
 **Djallil14/Djallil14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
